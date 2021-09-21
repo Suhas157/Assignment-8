@@ -5,5 +5,4 @@ void main() {
   print("List is :$arr");
   arr.shuffle();  // Shuffles the elements of this list randomly.
   print ("Random Element :${arr[0]}");  // print 0 index element
-  
 }
